@@ -29,6 +29,6 @@ const print = (line) => {
 };
 
 module.exports = {
-   readline,
-   print,
- };
+  readline,
+  print,
+};
