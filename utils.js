@@ -20,7 +20,7 @@ let lc = 0;
 
 const readline = () => {
   lc += 1;
-  return inLines[lc -1];
+  return inLines[lc - 1];
 };
 
 const print = (line) => {
