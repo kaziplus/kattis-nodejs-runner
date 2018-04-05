@@ -15,3 +15,5 @@ Not all ES6 features are supported by the SpiderMonkey engine that Kattis uses (
 
 - Exponential (`**`)
 - String templating
+- Sets
+- Spread operator (`...`)
